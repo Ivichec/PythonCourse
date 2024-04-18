@@ -3,6 +3,7 @@ Me queria presentar:
 Me llamo Pablo"""
 
 nombre = "Iván"
+#concatenar con f
 bienvenida = f"Hola {nombre} como estas hoy?"
 print(bienvenida)
 #Puedes buscar en textos patrones segun indiques si estan o si no estan devuelve true o false.
