@@ -1,0 +1,6 @@
+"codigo","correo","usuario","clave","rol","recuperar","activado","foto","bloquear"
+"1","prueba@mail.com","willmattos","$2y$13$IY76RQBetyV8Wua/hvPoSOYrss2GQ8AXgbQHhRP/51wWfqo8XN/Ia","2",NULL,"1","you1.jpg",NULL
+"2","usuario@mail.com","user","$2y$13$Jua3ih.qqxHcnHMfGLnaEub5LwGsThidos.ipys9lCnNV1uTNPCWC","0","1402432990","1",NULL,NULL
+"3","usuario2@mail.com","usuario2","$2y$13$Jua3ih.qqxHcnHMfGLnaEub5LwGsThidos.ipys9lCnNV1uTNPCWC","1","1402432990","1",NULL,NULL
+"4","nuevacuenta@mail.com","nuevacuenta","$2y$13$DXO.c8DAGPJLmybQagJlVus9NIQp8aJPGz5CauUjWhepYJx6e08oG",NULL,"1293649260",NULL,NULL,NULL
+"5","prueba1@mail.com","hola","$2y$13$Jj/6G6.1uz3mWKipAYNXaOHmbTJf3jUI/qC0WN9b4VrLPgLBYVQwi",NULL,NULL,"1",NULL,NULL
