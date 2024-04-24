@@ -34,7 +34,7 @@ elementoEspecifico = df.iloc[2,2]
 codigos = df.iloc[:,2]
 #acceder a todos los elementos de una fila
 codigosFila = df.iloc[2,:]
-#acceder a filas con mas de 2 en el id
-#mayorId = df.iloc[0>2:]
+#acceder a filas con mas de 2 en el codigo
+mayorId = df.loc[df["codigo"]>2,:]
 
 print(mayorId)
